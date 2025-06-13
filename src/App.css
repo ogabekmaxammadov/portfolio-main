@@ -161,7 +161,7 @@ html.dark .moon {
 .fi-loader {
 	font-size: 60px;
 	color: #00abf0;
-	animation: spin 1s linear infinite;
+	animation: spin 2s linear infinite;
 	position: fixed;
 	margin-top: 250px;
 	margin-left: -40px;

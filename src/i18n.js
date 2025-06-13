@@ -23,6 +23,7 @@ i18n
 					Birthday: 'Birthday',
 					Website: 'Website',
 					Phone: 'Phone',
+					'Web site': 'Web site',
 					City: 'City',
 					Age: 'Age',
 					Degree: 'Degree',
@@ -36,6 +37,28 @@ i18n
 					//Projects Page
 					'View site': 'View site',
 					'Show more': 'Show more',
+
+					'It TAT AI': 'It TAT Ai',
+
+					Kafe: 'Cafe',
+
+					'12-maktab': 'School 12',
+					Movies: 'Movies',
+
+					'Suniy intellekt bilan integratsiya qilingan telegram web app':
+						'Telegram web app integrated with artificial intelligence',
+
+					"It TAT o'quv markazi uchun telegram web app.":
+						'Telegram web app for the IT TAT training center.',
+
+					'Kafelar uchun ishni yengilashtirish, buyurtmalar qabul qilish va bir nechta filallar uchun sayt.':
+						'A website for cafes to streamline operations, accept orders, and have multiple branches.',
+
+					'12-maktab uchun sayt. Demo versiyasi.':
+						'Website for school 12. Demo version.',
+
+					'API lar bilan integratsiya qilingan birinchi saytim.':
+						'My first site integrated with APIs.',
 
 					//Contact Page
 					name: 'name',
@@ -62,6 +85,7 @@ i18n
 					// About Page
 					Birthday: 'tugilgan',
 					Website: 'Websayt',
+					'Web site': 'Web sayt',
 					Phone: 'Raqam',
 					City: 'Shaxar',
 					Age: 'Yosh',
@@ -76,6 +100,27 @@ i18n
 					//Projects Page
 					'View site': 'Ochish',
 					'Show more': "Ko'proq",
+					'It TAT AI': 'It TAT AI',
+
+					Kafe: 'Kafe',
+
+					'School 12': 'School 12',
+					Movies: 'Filmlar',
+
+					'Suniy intellekt bilan integratsiya qilingan telegram web app':
+						'Suniy intellekt bilan integratsiya qilingan telegram web app',
+
+					"It TAT o'quv markazi uchun telegram web app.":
+						"It TAT o'quv markazi uchun telegram web app.",
+
+					'Kafelar uchun ishni yengilashtirish, buyurtmalar qabul qilish va bir nechta filallar uchun sayt.':
+						'Kafelar uchun ishni yengilashtirish, buyurtmalar qabul qilish va bir nechta filallar uchun sayt.',
+
+					'12-maktab uchun sayt. Demo versiyasi.':
+						'12-maktab uchun sayt. Demo versiyasi.',
+
+					'API lar bilan integratsiya qilingan birinchi saytim.':
+						'API lar bilan integratsiya qilingan birinchi saytim.',
 
 					//Contact Page
 					name: 'ismingizni kiriting',
@@ -102,6 +147,7 @@ i18n
 					// About Page
 					Birthday: 'День рождения',
 					Website: 'Веб-сайт',
+					'Web site': 'Веб сайт',
 					Phone: 'Телефон',
 					City: 'Город',
 					Age: 'Возраст',
@@ -116,6 +162,27 @@ i18n
 					//Projects Page
 					'View site': 'Открыть',
 					'Show more': 'снова',
+
+					'It TAT AI': 'ИТ ТАТ ИИ',
+
+					Kafe: 'Кафе',
+					'School 12': 'Школа 12',
+					Movies: 'Фильмы',
+
+					'Suniy intellekt bilan integratsiya qilingan telegram web app':
+						'Веб-приложение Telegram интегрировано с искусственным интеллектом',
+
+					"It TAT o'quv markazi uchun telegram web app.":
+						'Веб-приложение Telegram для учебного центра IT TAT.',
+
+					'Kafelar uchun ishni yengilashtirish, buyurtmalar qabul qilish va bir nechta filallar uchun sayt.':
+						'Веб-сайт для кафе, позволяющий оптимизировать работу, принимать заказы и иметь несколько филиалов.',
+
+					'12-maktab uchun sayt. Demo versiyasi.':
+						'Сайт для школы 12. Демо-версия.',
+
+					'API lar bilan integratsiya qilingan birinchi saytim.':
+						'Мой первый сайт, интегрированный с API.',
 
 					//Contact Page
 					name: 'Ваше имя',

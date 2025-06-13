@@ -12,7 +12,9 @@ const HomeSection = () => {
 				<h2> {t('Im Frontend developer')}</h2>
 
 				<div className='btn-social'>
-					<button className='btn-primary'>{t('Information')}</button>
+					<a href='/Ogabek s resume.pdf' download className='btn-primary'>
+						{t('Information')}
+					</a>
 					<a href='tel: +998945432939'>
 						<FaPhoneAlt className='icon phone-icon' />
 					</a>

@@ -1,4 +1,3 @@
-import React from 'react'
 import { AiOutlinePicture } from 'react-icons/ai'
 import { BsTelegram } from 'react-icons/bs'
 import { CiCircleRemove } from 'react-icons/ci'
@@ -6,7 +5,7 @@ import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
 import { IoHome, IoMailOpenOutline } from 'react-icons/io5'
 import { RiContactsFill } from 'react-icons/ri'
 import { NavLink } from 'react-router-dom'
-import myImg from '../../assets/assetsImg/my-profile-img.jpg'
+import myImg from '../../assets/assetsImg/my-img.jpg'
 
 import { useTranslation } from 'react-i18next'
 import './menuSection.css'

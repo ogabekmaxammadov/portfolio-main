@@ -33,6 +33,11 @@
 	cursor: pointer;
 }
 
+.project button {
+	position: relative;
+	margin-top: 15px;
+}
+
 .project:hover {
 	border: 1px solid #818080;
 	transition: 0.8s;
